@@ -1,5 +1,5 @@
 # Front-end-assignment_LU123
-
+## [Live Server Link](https://vikash-24-aug-2023.netlify.app/)
 
 
 
@@ -21,7 +21,7 @@ This is a front-end application built using React.js, JavaScript, HTML, and CSS.
 
 ## Demo
 
-You can check out the live demo of the application [Netlify Link](https://vikash-24-aug-2023.netlify.app/
+You can check out the live demo of the application [Netlify Link](https://vikash-24-aug-2023.netlify.app/)
 ).
 
 ## Installation
